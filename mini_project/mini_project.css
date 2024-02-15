@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+
+}
+nav{
+    border-bottom-width: 2px;
+border-bottom-color: #000;
+border-bottom-style: solid;
+padding: 10px;
+margin-bottom: 15px;
+background-color:palegreen;
+
+}
+p{
+text-shadow: 0px 0px 5px yellow, 0px 5px 5px rebeccapurple;
+}
+label, input, textarea, button {
+    display: block;
+}
+form {
+    margin: 0 auto;
+    width: 50%;
+    padding: 30px;
+    background-color: #fff;
+    border:1 px solid #eee;
+}
+label{
+    margin-bottom: 4 px;
+}
+input{
+    margin-bottom: 4px;
+    width: 100%;
+    border: 1px solid #aaa;
+    padding: 5px;
+
+}
+textarea
+{
+    margin-bottom: 4px;
+    width: 100%;
+    border: 1px solid #aaa;
+}
+button{
+    border: 1px solid #aaa;
+    background-color: #bbb;
+    padding: 5px;
+    margin: 0 auto;
+}
